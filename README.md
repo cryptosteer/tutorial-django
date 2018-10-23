@@ -24,3 +24,7 @@ Los pasos a seguir en el desarrollo del proyecto son:
 10. Asignando los nombres de URLs
 11. Escriba un formulario sencillo
 12. Utilice vistas genéricas: Menos código es mejor
+
+Administrador
+User: admin
+Pass: 12345678
