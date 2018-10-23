@@ -26,5 +26,6 @@ Los pasos a seguir en el desarrollo del proyecto son:
 12. Utilice vistas genéricas: Menos código es mejor
 
 Administrador
+
 User: admin
 Pass: 12345678
